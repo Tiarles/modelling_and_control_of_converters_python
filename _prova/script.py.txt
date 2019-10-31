@@ -1,0 +1,4 @@
+print("Olá")
+
+def soma2(a, b):
+	return a+b
