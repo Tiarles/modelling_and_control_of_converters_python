@@ -9,6 +9,9 @@ Para o futuro: Colaboração com o Profº Fábio Ecke Bisogno para inserção de
 
 Este ``README.md`` apresenta o Jupyter notebook da modelagem da prova 1 da disciplina.
 
+## Referências
+**ERICKSON** (2001), *Fundamentals of Power Electronics* (Second Edition), Kluwer Academic Publishers
+
 # Prova 1 (2°/2019)
 ## DPEE805 - Modelagem e Controle de Conversores
 ### Prof° Cassiano Rech | Acadêmico: Tiarles da Rocha Moralles Guterres
