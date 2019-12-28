@@ -1,3 +1,14 @@
+# Repositório da Disciplina de Modelagem e Controle de Conversores
+ Este repositório apresenta alguns trecho de código em Jupyter Notebooks da Disciplina de Modelagem e Controle de Convesores, ministrada pelo Profº Drº Cassiano Rech.
+
+ O repositório é dividido em:
+ 1. Parte de *modelagem* (Com o uso das bibliotecas **pandas**, **matplotlib**, **numpy** e **scipy.signal**)
+ 2. Parte de *controle* (Com o uso das bibliotecas **control** e demais citadas em 1.)
+
+Para o futuro: Colaboração com o Profº Fábio Ecke Bisogno para inserção de seus projetos de modelagem e controle neste repositório.
+
+Este ``README.md`` apresenta o Jupyter notebook da modelagem da prova 1 da disciplina.
+
 # Prova 1 (2°/2019)
 ## DPEE805 - Modelagem e Controle de Conversores
 ### Prof° Cassiano Rech | Acadêmico: Tiarles da Rocha Moralles Guterres
