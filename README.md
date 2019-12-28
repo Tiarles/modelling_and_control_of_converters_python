@@ -209,7 +209,7 @@ show()
 ```
 
 
-![png](output_10_0.png)
+![png](0_to_readme/output_10_0.png)
 
 
 #### Modelagem no espaço de estados
@@ -346,11 +346,11 @@ up = array([u, d]).transpose()
 ```
 
 
-![png](output_32_0.png)
+![png](0_to_readme/output_32_0.png)
 
 
 
-![png](output_32_1.png)
+![png](0_to_readme/output_32_1.png)
 
 
 Nesse momento, com as entradas definidas e o modelo pronto podemos evolui-lo no espaço de estados utilizando a função ``lsim``:
@@ -388,7 +388,7 @@ show()
 ```
 
 
-![png](output_38_0.png)
+![png](0_to_readme/output_38_0.png)
 
 
 E por fim, o modelo de espaço de estados é comparado com o modelo físico:
@@ -415,7 +415,7 @@ show()
 ```
 
 
-![png](output_40_0.png)
+![png](0_to_readme/output_40_0.png)
 
 
 ## Geração da Função de Transferência
